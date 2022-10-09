@@ -1,0 +1,402 @@
+[
+{
+  "Identification": "11944612684838",
+  "SupportedLanguages": [],
+  "ATMServices": [],
+  "Accessibility": [],
+  "SupportedCurrencies": [
+    "GBP"
+  ],
+  "Note": [],
+  "OtherAccessibility": [],
+  "OtherATMServices": [],
+  "Location": {
+    "LocationCategory": [],
+    "OtherLocationCategory": [],
+    "PostalAddress": {
+      "AddressLine": [
+        "(SOUTHERN END), PALACE OF WESTMINSTER SW1A 0PW",
+        "PALACE OF WESTMINSTER",
+        "LONDON",
+        "SW1A 0PW"
+      ],
+      "TownName": "PALACE OF WESTMINSTER",
+      "CountrySubDivision": [
+        "LONDON"
+      ],
+      "Country": "UK",
+      "PostCode": "SW1A 0PW",
+      "GeoLocation": {
+        "GeographicCoordinates": {
+          "Latitude": "051.49978600",
+          "Longitude": "-000.12464300"
+        }
+      }
+    }
+  }
+},
+{
+"Identification": "11144688545552",
+"SupportedLanguages": [],
+"ATMServices": [],
+"Accessibility": [],
+"SupportedCurrencies": [
+"GBP"
+],
+"Note": [],
+"OtherAccessibility": [],
+"OtherATMServices": [],
+"Location": {
+"LocationCategory": [],
+"OtherLocationCategory": [],
+"PostalAddress": {
+"AddressLine": [
+"16 MARKET SQUARE, GLOUCESTERSHIRE GL13 9BD",
+"GLOUCESTERSHIRE",
+"GLOUCESTERSHIRE",
+"GL13 9BD"
+],
+"TownName": "GLOUCESTERSHIRE",
+"CountrySubDivision": [
+"GLOUCESTERSHIRE"
+],
+"Country": "UK",
+"PostCode": "GL13 9BD",
+"GeoLocation": {
+"GeographicCoordinates": {
+"Latitude": "051.69147500",
+"Longitude": "-002.45866500"
+}
+}
+}
+}
+},
+{
+"Identification": "1125464724171",
+"SupportedLanguages": [],
+"ATMServices": [],
+"Accessibility": [],
+"SupportedCurrencies": [
+"GBP"
+],
+"Note": [],
+"OtherAccessibility": [],
+"OtherATMServices": [],
+"Location": {
+"LocationCategory": [],
+"OtherLocationCategory": [],
+"PostalAddress": {
+"AddressLine": [
+"167 ST. JAMES ROAD, NORTHAMPTON NN5 5LE",
+"NORTHAMPTON",
+"NORTHAMPTONSHIRE",
+"NN5 5LE"
+],
+"TownName": "NORTHAMPTON",
+"CountrySubDivision": [
+"NORTHAMPTONSHIRE"
+],
+"Country": "UK",
+"PostCode": "NN5 5LE",
+"GeoLocation": {
+"GeographicCoordinates": {
+"Latitude": "052.23947300",
+"Longitude": "-000.91419600"
+}
+}
+}
+}
+},
+{
+"Identification": "11214639633241",
+"SupportedLanguages": [],
+"ATMServices": [],
+"Accessibility": [],
+"SupportedCurrencies": [
+"GBP"
+],
+"Note": [],
+"OtherAccessibility": [],
+"OtherATMServices": [],
+"Location": {
+"LocationCategory": [],
+"OtherLocationCategory": [],
+"PostalAddress": {
+"AddressLine": [
+"235 235 BEXLEY ROAD, NORTHUMBERLAND HEATH DA8 3XX",
+"NORTHUMBERLAND HEATH",
+"KENT",
+"DA8 3XX"
+],
+"TownName": "NORTHUMBERLAND HEATH",
+"CountrySubDivision": [
+"KENT"
+],
+"Country": "UK",
+"PostCode": "DA8 3XX",
+"GeoLocation": {
+"GeographicCoordinates": {
+"Latitude": "052.47808200",
+"Longitude": "-002.11167700"
+}
+}
+}
+}
+},
+{
+"Identification": "11174611088608",
+"SupportedLanguages": [],
+"ATMServices": [],
+"Accessibility": [],
+"SupportedCurrencies": [
+"GBP"
+],
+"Note": [],
+"OtherAccessibility": [],
+"OtherATMServices": [],
+"Location": {
+"LocationCategory": [],
+"OtherLocationCategory": [],
+"PostalAddress": {
+"AddressLine": [
+"290 WALWORTH ROAD, LONDON SE17 2TE",
+"LONDON",
+"LONDON",
+"SE17 2TE"
+],
+"TownName": "LONDON",
+"CountrySubDivision": [
+"LONDON"
+],
+"Country": "UK",
+"PostCode": "SE17 2TE",
+"GeoLocation": {
+"GeographicCoordinates": {
+"Latitude": "051.48681700",
+"Longitude": "-000.09556100"
+}
+}
+}
+}
+},
+{
+"Identification": "11334683168406",
+"SupportedLanguages": [],
+"ATMServices": [],
+"Accessibility": [],
+"SupportedCurrencies": [
+"GBP"
+],
+"Note": [],
+"OtherAccessibility": [],
+"OtherATMServices": [],
+"Location": {
+"LocationCategory": [],
+"OtherLocationCategory": [],
+"PostalAddress": {
+"AddressLine": [
+"85 HIGH ROAD, LONDON N2 8AE",
+"LONDON",
+"LONDON",
+"N2 8AE"
+],
+"TownName": "LONDON",
+"CountrySubDivision": [
+"LONDON"
+],
+"Country": "UK",
+"PostCode": "N2 8AE",
+"GeoLocation": {
+"GeographicCoordinates": {
+"Latitude": "051.59036300",
+"Longitude": "-000.16465800"
+}
+}
+}
+}
+},
+{
+"Identification": "11924686091194",
+"SupportedLanguages": [],
+"ATMServices": [],
+"Accessibility": [],
+"SupportedCurrencies": [
+"GBP"
+],
+"Note": [],
+"OtherAccessibility": [],
+"OtherATMServices": [],
+"Location": {
+"LocationCategory": [],
+"OtherLocationCategory": [],
+"PostalAddress": {
+"AddressLine": [
+"92 QUEENS ROAD, LEICESTER LE2 1SY",
+"LEICESTER",
+"LEICESTERSHIRE",
+"LE2 1SY"
+],
+"TownName": "LEICESTER",
+"CountrySubDivision": [
+"LEICESTERSHIRE"
+],
+"Country": "UK",
+"PostCode": "LE2 1SY",
+"GeoLocation": {
+"GeographicCoordinates": {
+"Latitude": "052.61708200",
+"Longitude": "-001.11669200"
+}
+}
+}
+}
+},
+{
+"Identification": "11274639538686",
+"SupportedLanguages": [],
+"ATMServices": [],
+"Accessibility": [],
+"SupportedCurrencies": [
+"GBP"
+],
+"Note": [],
+"OtherAccessibility": [],
+"OtherATMServices": [],
+"Location": {
+"LocationCategory": [],
+"OtherLocationCategory": [],
+"PostalAddress": {
+"AddressLine": [
+"95 HIGH STREET, LONDON W3 6QX",
+"LONDON",
+"LONDON",
+"W3 6QX"
+],
+"TownName": "LONDON",
+"CountrySubDivision": [
+"LONDON"
+],
+"Country": "UK",
+"PostCode": "W3 6QX",
+"GeoLocation": {
+"GeographicCoordinates": {
+"Latitude": "051.50684600",
+"Longitude": "-000.26857100"
+}
+}
+}
+}
+},
+{
+"Identification": "11944666724918",
+"SupportedLanguages": [],
+"ATMServices": [],
+"Accessibility": [],
+"SupportedCurrencies": [
+"GBP"
+],
+"Note": [],
+"OtherAccessibility": [],
+"OtherATMServices": [],
+"Location": {
+"LocationCategory": [],
+"OtherLocationCategory": [],
+"PostalAddress": {
+"AddressLine": [
+"1 ABBEY ROAD, LONDON NW10 7RB",
+"LONDON",
+"LONDON",
+"NW10 7RB"
+],
+"TownName": "LONDON",
+"CountrySubDivision": [
+"LONDON"
+],
+"Country": "UK",
+"PostCode": "NW10 7RB",
+"GeoLocation": {
+"GeographicCoordinates": {
+"Latitude": "051.52961300",
+"Longitude": "-000.26963900"
+}
+}
+}
+}
+},
+{
+"Identification": "11944641147861",
+"SupportedLanguages": [],
+"ATMServices": [],
+"Accessibility": [],
+"SupportedCurrencies": [
+"GBP"
+],
+"Note": [],
+"OtherAccessibility": [],
+"OtherATMServices": [],
+"Location": {
+"LocationCategory": [],
+"OtherLocationCategory": [],
+"PostalAddress": {
+"AddressLine": [
+"9 HIGH STREET, ABERGAVENNY NP7 5SA",
+"ABERGAVENNY",
+"GWENT",
+"NP7 5SA"
+],
+"TownName": "ABERGAVENNY",
+"CountrySubDivision": [
+"GWENT"
+],
+"Country": "UK",
+"PostCode": "NP7 5SA",
+"GeoLocation": {
+"GeographicCoordinates": {
+"Latitude": "051.82243800",
+"Longitude": "-003.01892400"
+}
+}
+}
+}
+},
+{
+"Identification": "1154627437157",
+"SupportedLanguages": [],
+"ATMServices": [],
+"Accessibility": [],
+"SupportedCurrencies": [
+"GBP"
+],
+"Note": [],
+"OtherAccessibility": [],
+"OtherATMServices": [],
+"Location": {
+"LocationCategory": [],
+"OtherLocationCategory": [],
+"PostalAddress": {
+"AddressLine": [
+"2 ABERGELE ROAD, COLWYN BAY LL29 7WY",
+"COLWYN BAY",
+"GWYNEDD",
+"LL29 7WY"
+],
+"TownName": "COLWYN BAY",
+"CountrySubDivision": [
+"GWYNEDD"
+],
+"Country": "UK",
+"PostCode": "LL29 7WY",
+"GeoLocation": {
+"GeographicCoordinates": {
+"Latitude": "053.29486000",
+"Longitude": "-003.72760500"
+}
+}
+}
+}
+}
+]
+
+
+
+
